@@ -12,12 +12,12 @@ const typesenseInstantsearchAdapter = new TypesenseInstantSearchAdapter({
   server: {
     nodes: [
       {
-        host: "usay3xpekim1nrhdp-1.a1.typesense.net",
+        host: "usay3xpxxxxxxxxxx-1.a1.typesense.net",
         port: '443',
         protocol: 'https',
       },
     ],
-    apiKey: "XwgcfcpwAj8nO9GnvR0XiaD6N48or9Bz",
+    apiKey: "XwgcfcpwAjxxxxxxxxxxxxxxxxxxxxxx",
   },
   additionalSearchParameters: {
     query_by: 'title,author',
